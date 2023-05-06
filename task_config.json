@@ -1,0 +1,10 @@
+{
+  "input_interfaces": [
+    "ct-image"
+  ],
+  "output_interfaces": [
+    "probability-covid-19",
+    "probability-severe-covid-19"
+  ],
+  "roi_segmentation_interface": "lobe-and-covid-19-lesion-segmentation"
+}
